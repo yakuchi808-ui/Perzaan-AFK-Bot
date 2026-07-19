@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "NhatHai",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "minecraft367.aternos.me",
     "port": 12498,
-    "version": "1.26.13.1"
+    "version": "1.26.2"
   },
   "position": {
     "enabled": true,
@@ -30,7 +30,7 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "có ai ko cứu cứu",
+        "chào tôi là người giả á",
         "ê ai cho tôi chs với!",
         "chỉ mik chơi với mấy tk khùng!"
       ]
