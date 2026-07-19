@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "minecraft367.aternos.me",
-    "port": 12498,
+    "ip": "minecraft3636.aternos.me",
+    "port": 41813,
     "version": "1.26.2"
   },
   "position": {
@@ -30,7 +30,7 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "chào tôi là người giả á",
+        "chào tôi là người khùng á",
         "ê ai cho tôi chs với!",
         "chỉ mik chơi với mấy tk khùng!"
       ]
