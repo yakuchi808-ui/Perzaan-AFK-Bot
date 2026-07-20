@@ -8,7 +8,7 @@
   "server": {
     "ip": "minecraft366.aternos.me",
     "port": 18181,
-    "version": "1.26.2"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
